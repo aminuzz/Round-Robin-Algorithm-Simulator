@@ -15,6 +15,6 @@ This project simulates the Round Robin (RR) CPU scheduling algorithm in Python. 
   - Introduction to CPU scheduling and the Round Robin algorithm.
   - Implementation details and instructions for running the simulation.
   - Performance analysis with visual results.
-- **Images**: Folder containing visualizations of the analysis.
+
 
 
